@@ -1,7 +1,7 @@
 ### Hi there 👋
-### I am Mithilesh V
+### Mithilesh V
 
-A Computer Science enthusiast 
+Just another Computer Science enthusiast 
 
 ### GitHub Stats
 
